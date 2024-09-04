@@ -1,7 +1,7 @@
 ## AbBlock List
 
 广告过滤规则整合，使用 [fordes123/ad-filters-subscriber v2](https://github.com/fordes123/ad-filters-subscriber/tree/v2)
-构建
+构建。定期合并上游规则，去除重复以及包含无效域名的项目
 
 | 文件              | 适用                          |        github        |         ghproxy          |         jsdelivr          |
 |-----------------|:----------------------------|:--------------------:|:------------------------:|:-------------------------:|
